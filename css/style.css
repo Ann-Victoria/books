@@ -1,0 +1,32 @@
+body {
+  background-color: slategrey;
+}
+p {
+  font-family: fantasy;
+  color: beige;
+}
+h1 {
+  color: aquamarine;
+  font-style: italic;
+  font-size: 175%;
+}
+
+h2 {
+  color: blue;
+  font-size: 175%;
+  font-style: italic;
+}
+h3 {
+  color: skyblue;
+  font-size: 175%;
+  font-style: italic;
+}
+h4 {
+  color: royalblue;
+  font-size: 175%;
+  font-style: italic;
+}
+.test-box {
+  float: left ;
+  margin-left: 30px; 
+}
