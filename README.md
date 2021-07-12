@@ -9,6 +9,6 @@ This is a school project detailing some of my favorite novels I've read.
 ## Developer Tools
 * HTML
 * CSS
-**
+###
 MIT License
 Copyright (c) {2021} **{Ann Victoria}**
